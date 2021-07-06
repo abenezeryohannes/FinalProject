@@ -1,0 +1,39 @@
+{
+    "categories": [
+        { "id": 1, "title": "General" },
+        { "id": 2, "title": "Symptoms" },
+        { "id": 3, "title": "Transmission" },
+        { "id": 4, "title": "Prevention" },
+        { "id": 5, "title": "Treatment" },
+        { "id": 6, "title": "FAQ" }
+    ], 
+
+    "infos": [
+        { "id": 10, "category_id": 1, "title": "What is coronavirus?", "description": "Coronavirus disease ( COVID-19 ) is an infectious disease caused by a new virus. The disease causes respiratory illness (like the flu) with symptoms such as a cough, fever, and in more severe cases, difficulty breathing. You can protect yourself by washing your hands frequently, avoiding touching your face, and avoiding close contact (1 meter or 3 feet) with people who are unwell.", "image": "assets/gif/corona.gif" },
+        { "id": 11, "category_id": 1, "title": "Is the coronavirus disease the same as SARS?", "description": "No. The virus that causes COVID-19 and the one that caused the outbreak of Severe Acute Respiratory Syndrome (SARS) in 2003 are related to each other genetically, but the diseases they cause are quite different.", "image": "assets/gif/corona_b.gif" },
+        { "id": 12, "category_id": 1, "title": "Is the coronavirus disease the same as influenza?", "description": "COVID-19 causes more severe disease than seasonal influenza. While many people globally have built up immunity to seasonal flu strains, COVID-19 is a new virus to which no one has immunity. That means more people are susceptible to infection, and some will suffer severe disease. Globally, about 3.4% of reported COVID-19 cases have died. By comparison, seasonal flu generally kills far fewer than 1% of those infected.", "image": "assets/gif/corona_c.gif" },
+        
+        
+        { "id": 21, "category_id": 2, "title": "Common symptoms", "description": "The most common symptoms are fever, cough, shortness of breath, and breathing difficulties.", "image": "assets/gif/coughing.gif" },
+        { "id": 22, "category_id": 2, "title": "Severe symptoms", "description": "In severe cases infection can cause pneumonia, severe acute respiratory syndrome, and even death. The period within which the symptoms would appear is 2-14 days.", "image": "assets/gif/high_temp.gif" },
+        { "id": 23, "category_id": 2, "title": "Is headache a symptom of the coronavirus disease?", "description": "The virus can cause a range of symptoms, from ranging from mild illness to pneumonia. Symptoms of the disease are fever, cough, sore throat and headaches.", "image": null },
+        
+
+        { "id": 31, "category_id": 3, "title": "How it spreads", "description": "Coronavirus disease spreads primarily through contact with an infected person when they cough or sneeze. It also spreads when a person touches a surface or object that has the virus on it, then touches their eyes, nose, or mouth.", "image": null },
+        { "id": 32, "category_id": 3, "title": "Can you contract the coronavirus disease by touching a surface?", "description": "People could catch COVID-19 by touching contaminated surfaces or objects – and then touching their eyes, nose or mouth.", "image": null },
+
+        { "id": 41, "category_id": 4, "title": "Wash your hands", "description": "Wash your hands regularly for 20 seconds, with soap and water or alcohol-based hand rub.", "image": "assets/gif/handwash_a.gif" },
+        { "id": 42, "category_id": 4, "title": "Sneeze carefully", "description": "Cover your nose and mouth with a disposable tissue or flexed elbow when you cough or sneeze", "image": null },
+        { "id": 43, "category_id": 4, "title": "Social Distancing", "description": "Avoid close contact (1 meter or 3 feet) with people who are unwell", "image": "assets/gif/social_distance.gif" },
+        { "id": 44, "category_id": 4, "title": "Self-isolate", "description": "Stay home and self-isolate from others in the household if you feel unwell", "image": null },
+        { "id": 45, "category_id": 4, "title": "Don't!!", "description": "Touch your eyes, nose, or mouth if your hands are not clean", "image": null },
+        
+
+        { "id": 51, "category_id": 5, "title": "No Vaccine", "description": "There’s currently no vaccine to prevent coronavirus disease (COVID-19). You can protect yourself and help prevent spreading the virus to others if you things listed here.", "image": null },
+        { "id": 52, "category_id": 5, "title": "Recovery time", "description": "Using available preliminary data, the median time from onset to clinical recovery for mild cases is approximately 2 weeks and is 3-6 weeks for patients with severe or critical disease.", "image": null },
+        
+        
+        { "id": 61, "category_id": 6, "title": "Who is most at risk for the coronavirus disease?", "description": "People of all ages can be infected by the covid-19. Older people, and people with pre-existing medical conditions (such as asthma, diabetes, heart disease) appear to be more vulnerable to becoming severely ill with the virus. WHO advises people of all ages to take steps to protect themselves from the virus, for example by following good hand hygiene and good respiratory hygiene.", "image": null },
+        { "id": 62, "category_id": 6, "title": "Can babies get the coronavirus disease?", "description": "We know it is possible for people of any age to be infected with the virus, but so far there are relatively few cases of COVID-19 reported among children.", "image": null }
+    ]
+}

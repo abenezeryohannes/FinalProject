@@ -1,0 +1,2 @@
+
+enum AssetType { flare, image }

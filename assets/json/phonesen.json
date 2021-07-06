@@ -1,0 +1,54 @@
+{
+  "phone_numbers": [
+    {
+      "region": "Addis Abeba",
+      "phone_number": "8335"
+    },
+    {
+      "region": "Oromia",
+      "phone_number": "6955"
+    },
+
+    {
+      "region": "Amhara",
+      "phone_number": "6981"
+    },
+
+    {
+      "region": "Tigray",
+      "phone_number": "6244"
+    },
+
+    {
+      "region": "South",
+      "phone_number": "6981"
+    },
+    {
+      "region": "Afar",
+      "phone_number": "6220"
+    },
+ {
+      "region": "Benshangul",
+      "phone_number": "6016"
+    },
+
+    {
+      "region": "Hareri",
+      "phone_number": "6864"
+    },
+
+    {
+      "region": "Dire Dewa",
+      "phone_number": "6407"
+    },
+
+    {
+      "region": "Somalia",
+      "phone_number": "6929"
+    },
+    {
+      "region": "Gambela",
+      "phone_number": "8335"
+    }
+  ]
+}

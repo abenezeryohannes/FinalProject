@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">
+        Covid Contact Tracker
+    </string>
+    <string name="service_description">
+        Running in background to detect
+        treats at any time.
+    </string>
+</resources>

@@ -1,0 +1,54 @@
+{
+  "phone_numbers": [
+    {
+      "region": "አዲስ አበባ",
+      "phone_number": "8335"
+    },
+    {
+      "region": "ኦሮምያ",
+      "phone_number": "6955"
+    },
+
+    {
+      "region": "አማራ",
+      "phone_number": "6981"
+    },
+
+    {
+      "region": "ትግራይ",
+      "phone_number": "6244"
+    },
+
+    {
+      "region": "ደቡብ",
+      "phone_number": "6981"
+    },
+    {
+      "region": "አፋር",
+      "phone_number": "6220"
+    },
+    {
+      "region": "Benshangul",
+      "phone_number": "6016"
+    },
+
+    {
+      "region": "Hareri",
+      "phone_number": "6864"
+    },
+
+    {
+      "region": "Dire Dewa",
+      "phone_number": "6407"
+    },
+
+    {
+      "region": "Somalia",
+      "phone_number": "6929"
+    },
+    {
+      "region": "Gambela",
+      "phone_number": "8335"
+    }
+  ]
+}
